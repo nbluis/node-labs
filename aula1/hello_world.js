@@ -2,7 +2,7 @@ var http = require('http');
 var url = require('url');
 var queryString = require('querystring');
 
-var meuModulo = require('./first_module');
+var meuModulo = require('first_module');
 
 http.createServer(function(request, response) {
 	response.writeHead(200, {'Content-Type': 'text/plain'});
