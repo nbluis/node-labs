@@ -1,2 +1,102 @@
 My studies about node.js
 
+Course topics:
+
+    01 - Introdução ao Node.JS
+        Apresentando a tecnologia
+        Download e Instalação
+            Source
+            nDistro
+        Usando o modo interativo
+        Hello World
+        Carregando módulos
+        Controlando o processo Node.JS
+    02 - Javascript Essencial 1
+        Sintaxe Básica
+        Sistema de Tipos
+        Operadores
+        Estruturas de Controle
+        Arrays e Hashes
+        Estruturas de Repetição
+    03 - Javascript Essencial 2
+        Entendendo Functions
+        Escopo e Closures
+        Entendendo o this
+        Construindo Objetos (JS POO)
+        Lançando e capturando Exceções
+    04 - Trabalhando com Eventos 1
+        Conhecendo o *EventEmiter*
+        Objetos do Node.JS que emitem eventos
+        Escutando eventos
+        Crie seus próprios eventos
+    05 - Trabalhando com Eventos 2
+        Usando Buffers
+        Lendo Streams
+        Escrevendo em Streams
+        Usando timers
+    06 - Acesso Assíncrono ao FileSystem
+        Lendo arquivos
+        Escrevendo em arquivos
+        Obtendo informações de um arquivo
+        Observando mudanças em um arquivo
+        Trabalhando com diretórios
+        Operações síncronas
+    07 - Módulos e Bibliotecas
+        A especificação *CommonJS*
+        Estrutura dos módulos
+        Criando seu próprio módulo
+        Node Package Manager *(NPM)*
+        Criando sua biblioteca
+    08 - Acesso a Banco de Dados
+        MySQL Assíncrono
+        Mongodb
+        Redis
+        SQLite
+        Alguns ORMs
+
+    09 - Criando uma Aplicação Web tradicional 1
+        Escrevendo no *Response*
+        Conhecendo o objeto *URL*
+        Capturando os dados de um *Request GET/DELETE*
+        Capturando o *body* de um *Request POST/PUT*
+        Definindo rotas
+        Servindo arquivos estáticos
+    10 - Criando uma Aplicação Web tradicional 2
+        Connect HTTP Middleware
+        Simplificando Cookies
+        Sessions in memory e no redis
+        Pegando o request body de maneira simples
+        Criando seu próprio middleware
+    11 - Criando uma Aplicação Web tradicional 3
+        Acelerando as coisas com o Express
+        Usando engines de templates
+        Autenticação e Autorização
+        Parecido com o Rails usando o Geddy
+    12 - Criando aplicações realtime 1
+        Diferençiando connection e request
+        HTTP Connection Keep Alive
+        Mecanismos de transporte
+        Criando uma aplicação Websockets na unha
+    13 - Criando aplicações realtime 2
+        Introdução ao Faye
+        Usando canais de comunicação
+        Entendendo os Meta-Canais
+        Criando extensões para um canal
+        Testando em diferentes browsers
+    14 - Criando aplicações realtime 3
+        Introdução ao Socket.io
+        Gerênciando os eventos
+        Criando um Jogo/Chat realtime
+        Testando em diferentes browsers
+    15 - Testes, TDD e BDD
+        Usando o módulo assert do Node.JS
+        Testes Assíncronos
+        BDD com Vows
+        Testes funcionais com Expresso
+        Cobertura de Testes
+    16 - Build e Deployment
+        Conhecendo o Jake
+        Aproveitando os multiplos cores
+        Lidando com crashes
+        Colocando o Nginx na frente
+
