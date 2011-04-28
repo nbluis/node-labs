@@ -1,4 +1,4 @@
-My studies about node.js
+My studies during the curse of node.js
 
 Course topics:
 
@@ -53,7 +53,6 @@ Course topics:
         Redis
         SQLite
         Alguns ORMs
-
     09 - Criando uma Aplicação Web tradicional 1
         Escrevendo no *Response*
         Conhecendo o objeto *URL*
