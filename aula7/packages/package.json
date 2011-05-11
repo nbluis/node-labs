@@ -1,0 +1,9 @@
+{
+	"name": "packagebohrer",
+	"description": "My first package",
+	"keywords": ["test"],
+	"version": "0.0.1",
+	"author": "Eduardo Bohrer<nbluisrs@gmail.com>",
+	"main" : "index"
+		
+}
